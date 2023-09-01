@@ -1,6 +1,9 @@
 # 💫 About Me:
 👋 Hi, I'm DivyaKumar Patel!<br><br>🌱 I'm currently learning Android Studio with a focus on Java development.<br><br>💞 I'm interested in collaborating on open-source projects and contributing to the Android development community.<br><br>📫 You can reach me through my GitHub profile: [Divyakumar21202](https://github.com/Divyakumar21202) or connect with me on LinkedIn: [DivyaKumar Patel](https://www.linkedin.com/in/divyakumar-patel-3278a525a).<br><br>Let's work together to create exciting and impactful projects!<br>
 
+![Animation](https://lottiefiles.com/animations/welcome-hTIZWga59I)
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/divyakumar-patel-3278a525a) 
