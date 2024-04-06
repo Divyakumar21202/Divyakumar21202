@@ -43,7 +43,14 @@
 ![](https://github-contributor-stats.vercel.app/api?username=DivyaKumar21202&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂  Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<div align="center">
+    <img src="https://randommeme-five.vercel.app/" style=" height: 400px;">
+</div>
+
+### ✌️ Keep In Touch :
+<div align="center">
+    <img src="https://github.com/Divyakumar21202/Divyakumar21202/assets/124331485/a5b4292b-2212-4ebf-a2c9-a0613c6e70b7" alt="Keep In Touch" style="max-width: 50%; height: auto;">
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DivyaKumar21202&icon=7&color=8)](https://visitcount.itsvg.in)
