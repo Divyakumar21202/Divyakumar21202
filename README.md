@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm DivyaKumar Patel! <br>🌱 I'm currently learning Flutter & dart .<br>💞 I'm interested in collaborating on open-source projects .<br>
+👋 Hi, I'm DivyaKumar Patel! <br>🌱 I'm currently exploring Flutter & dart .<br>💞 I'm interested in collaborating on open-source projects .<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/divyakumar-patel-3278a525a/) 
