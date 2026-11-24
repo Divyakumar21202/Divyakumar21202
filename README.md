@@ -9,15 +9,6 @@ I enjoy building scalable applications, optimizing backend systems, and explorin
 - 🤖 Exploring LLM applications, AI agents, and Model Context Protocol (MCP).
 - 🌱 Always learning, building, and contributing to interesting projects.
 
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/in/divyakumar-patel-3278a525a/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/DivyaKumar21202)
-
----
-
 ## 💻 Technical Skills
 
 ### Programming Languages
@@ -26,7 +17,7 @@ I enjoy building scalable applications, optimizing backend systems, and explorin
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### Frameworks & AI
+### Frameworks & AI Technologies
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -55,20 +46,37 @@ I enjoy building scalable applications, optimizing backend systems, and explorin
 
 ---
 
-## ⚡ Experience Highlights
-
-- Optimized backend services using Redis caching and Celery-based asynchronous task queues.
-- Replaced frequent database polling with event-driven Pub/Sub architecture.
-- Improved nearby-user search using Google S2 spatial indexing.
-- Built cross-platform applications using Flutter with scalable state management.
-
----
-
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://ghstats.dev/api/card?username=DivyaKumar21202&theme=tokyonight)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-cards/overview.dark.svg" />
+  <img alt="GitHub Overview" src="./assets/profile-cards/overview.light.svg" width="100%" />
+</picture>
 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=DivyaKumar21202&layout=compact&theme=tokyonight&hide_border=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-cards/contributions.dark.svg" />
+  <img alt="GitHub Contributions" src="./assets/profile-cards/contributions.light.svg" width="100%" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-cards/languages.dark.svg" />
+  <img alt="GitHub Languages" src="./assets/profile-cards/languages.light.svg" width="100%" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-cards/lifetime.dark.svg" />
+  <img alt="GitHub Lifetime Contributions" src="./assets/profile-cards/lifetime.light.svg" width="100%" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-cards/rhythm.dark.svg" />
+  <img alt="GitHub Activity Rhythm" src="./assets/profile-cards/rhythm.light.svg" width="100%" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-cards/repositories.dark.svg" />
+  <img alt="Top Contributed Repositories" src="./assets/profile-cards/repositories.light.svg" width="100%" />
+</picture>
 
 ---
 
@@ -80,5 +88,12 @@ I enjoy building scalable applications, optimizing backend systems, and explorin
 - Building practical AI-powered applications
 
 ---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/in/divyakumar-patel-3278a525a/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DivyaKumar21202)
+
 
 ⭐ *I believe in learning by building and improving through experimentation.*
