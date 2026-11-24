@@ -63,22 +63,20 @@ I enjoy building scalable applications, optimizing backend systems, and explorin
   <img alt="GitHub Languages" src="./assets/profile-cards/languages.light.svg" width="100%" />
 </picture>
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-cards/lifetime.dark.svg" />
   <img alt="GitHub Lifetime Contributions" src="./assets/profile-cards/lifetime.light.svg" width="100%" />
-</picture>
+</picture> -->
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-cards/rhythm.dark.svg" />
   <img alt="GitHub Activity Rhythm" src="./assets/profile-cards/rhythm.light.svg" width="100%" />
-</picture>
+</picture> -->
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-cards/repositories.dark.svg" />
   <img alt="Top Contributed Repositories" src="./assets/profile-cards/repositories.light.svg" width="100%" />
-</picture>
-
----
+</picture> -->
 
 ## 🎯 Current Focus
 
@@ -86,8 +84,6 @@ I enjoy building scalable applications, optimizing backend systems, and explorin
 - Distributed Systems & Database Optimization
 - AI Agents, LangGraph & MCP
 - Building practical AI-powered applications
-
----
 
 ## 🌐 Connect With Me
 
