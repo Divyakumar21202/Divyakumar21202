@@ -1,0 +1,37 @@
+name: Generate Profile Cards
+
+on:
+  # Run whenever code is pushed to main
+  push:
+    branches:
+      - main
+
+  # Run automatically every day
+  schedule:
+    - cron: "17 2 * * *"
+
+  # Allow manual execution
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+
+      - name: Generate profile cards
+        uses: seijikohara/profile-cards-action@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: DivyaKumar21202
+          cards: overview,contributions,lifetime,rhythm,repositories,languages
+          output-dir: assets/profile-cards
+          themes: light,dark
+          palette: blue
+          commit: true
+          commit-message: "chore(profile): update profile cards"
