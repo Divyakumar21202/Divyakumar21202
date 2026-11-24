@@ -1,15 +1,15 @@
-# Hi, I'm DivyaKumar Patel 👋
+# Hi, I'm DivyaKumar Patel
 
 ### Software Developer | Backend Engineering | Flutter | AI & Agentic Systems
 
 I enjoy building scalable applications, optimizing backend systems, and exploring AI-powered solutions to real-world problems.
 
-- 💻 Interested in backend engineering, distributed systems, and scalable applications.
-- 🚀 Experienced in building cross-platform applications using Flutter and Dart.
-- 🤖 Exploring LLM applications, AI agents, and Model Context Protocol (MCP).
-- 🌱 Always learning, building, and contributing to interesting projects.
+- Interested in backend engineering, distributed systems, and scalable applications.
+- Experienced in building cross-platform applications using Flutter and Dart.
+- Exploring LLM applications, AI agents, and Model Context Protocol (MCP).
+- Always learning, building, and contributing to interesting projects.
 
-## 💻 Technical Skills
+## Technical Skills
 
 ### Programming Languages
 
@@ -46,7 +46,7 @@ I enjoy building scalable applications, optimizing backend systems, and explorin
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-cards/overview.dark.svg" />
@@ -78,18 +78,15 @@ I enjoy building scalable applications, optimizing backend systems, and explorin
   <img alt="Top Contributed Repositories" src="./assets/profile-cards/repositories.light.svg" width="100%" />
 </picture> -->
 
-## 🎯 Current Focus
+## Current Focus
 
 - Backend Engineering & System Design
 - Distributed Systems & Database Optimization
 - AI Agents, LangGraph & MCP
 - Building practical AI-powered applications
 
-## 🌐 Connect With Me
+## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/in/divyakumar-patel-3278a525a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/divyakumar-patel-3278a525a/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DivyaKumar21202)
-
-
-⭐ *I believe in learning by building and improving through experimentation.*
